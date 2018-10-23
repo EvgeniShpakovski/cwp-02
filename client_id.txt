@@ -1,0 +1,30 @@
+client 0 connected
+ data: Do you want travelling more then now?; answer: 1
+ data: Do you like fruits?; answer: 0
+ data: 2+2 = ?; answer: 0
+ data: Is Josh Snow a King of the North?; answer: 0
+client 0 disconnected
+client 1 connected
+ data: Is Josh Snow a King of the North?; answer: 0
+ data: Do you want travelling more then now?; answer: 1
+ data: Do you like fruits?; answer: 1
+ data: 2+2 = ?; answer: 1
+client 1 disconnected
+client 2 connected
+ data: Do you want travelling more then now?; answer: 0
+ data: Do you like fruits?; answer: 1
+ data: 2+2 = ?; answer: 1
+ data: Is Josh Snow a King of the North?; answer: 0
+client 2 disconnected
+client 3 connected
+ data: 2+2 = ?; answer: 1
+ data: Do you like fruits?; answer: 1
+ data: Do you want travelling more then now?; answer: 0
+ data: Is Josh Snow a King of the North?; answer: 0
+client 3 disconnected
+client 4 connected
+ data: Do you like fruits?; answer: 0
+ data: 2+2 = ?; answer: 1
+ data: Do you want travelling more then now?; answer: 1
+ data: Is Josh Snow a King of the North?; answer: 1
+client 4 disconnected

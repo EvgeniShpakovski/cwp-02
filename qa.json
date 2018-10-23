@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Do you like fruits?",
+    "goodAns": "yes",
+    "badAns": "no"
+  },
+  {
+    "question": "Is Josh Snow a King of the North?",
+    "goodAns": "yes",
+    "badAns": "no"
+  },
+  {
+    "question": "Do you want travelling more then now?",
+    "goodAns": "no",
+    "badAns": "yes"
+  },
+  {
+    "question": "2+2 = ?",
+    "goodAns": "4",
+    "badAns": "6"
+  }
+]
